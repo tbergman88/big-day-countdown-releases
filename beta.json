@@ -1,7 +1,7 @@
 {
- "version": "0.9.40",
- "url": "https://github.com/tbergman88/big-day-countdown-releases/releases/download/v0.9.40/big_day_countdown.bin",
- "size": 3822800,
- "notes": "Add time zone for display to allow accurite night mode, updateing etc.",
+ "version": "0.9.41",
+ "url": "https://github.com/tbergman88/big-day-countdown-releases/releases/download/v0.9.41/big_day_countdown.bin",
+ "size": 3819008,
+ "notes": "Refine time zone features",
  "published": "2026-11-08"
 }

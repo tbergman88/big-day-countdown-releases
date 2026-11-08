@@ -1,7 +1,7 @@
 {
- "version": "0.9.37",
- "url": "https://github.com/tbergman88/big-day-countdown-releases/releases/download/v0.9.37/big_day_countdown.bin",
- "size": 3813664,
- "notes": "Shows when it last checked",
+ "version": "0.9.38",
+ "url": "https://github.com/tbergman88/big-day-countdown-releases/releases/download/v0.9.38/big_day_countdown.bin",
+ "size": 3813824,
+ "notes": "Date appears sooner after an update",
  "published": "2026-11-08"
 }
